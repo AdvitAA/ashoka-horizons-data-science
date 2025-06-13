@@ -1,0 +1,41 @@
+{
+  "0": {
+    "theme": "General",
+    "size": 28,
+    "keywords_keybert": [],
+    "keywords_tfidf": [],
+    "top_countries": {
+      "ISR": 6,
+      "PSE": 5,
+      "QAT": 2,
+      "SAU": 2,
+      "OMN": 2
+    },
+    "year_range": "2010-2015"
+  },
+  "1": {
+    "theme": "General",
+    "size": 1127,
+    "keywords_keybert": [],
+    "keywords_tfidf": [
+      "pacific",
+      "sids",
+      "mali",
+      "drug",
+      "processes",
+      "settlement disputes",
+      "reduction",
+      "democratic republic",
+      "peacebuilding",
+      "taiwan"
+    ],
+    "top_countries": {
+      "SUR": 6,
+      "KGZ": 6,
+      "ITA": 6,
+      "AZE": 6,
+      "ALB": 6
+    },
+    "year_range": "2010-2015"
+  }
+}
